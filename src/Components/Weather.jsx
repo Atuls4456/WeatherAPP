@@ -90,10 +90,10 @@ function Weather() {
 
             </> : <></>}
 
-            
-                <span>This weather app is created by Atul Kumar Mehta
-                    using fetch API Contact @ atuls4456@gamil.com
-                </span>
+
+            <span>This weather app is created by Atul Kumar Mehta
+                using fetch API Contact @ atuls4456@gamil.com
+            </span>
         </div>
     )
 }
